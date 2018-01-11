@@ -1,1 +1,1 @@
-# kolokwium
+Mikolaj Przygoda
