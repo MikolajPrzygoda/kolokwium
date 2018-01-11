@@ -87,6 +87,8 @@ int main()
     else
         cout << "\n Stack1 is full: ";
     }
+	
+	//zmiana wprowadzona na nowym branch'u
  
     cout << "\n\n popd values from stack1 : \n";
     for( j = 1 ; j <= 11 ; j++)
