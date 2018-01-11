@@ -22,6 +22,7 @@ printf("Usage: %s <filename>\n",argv[0]);
 exit(EXIT_FAILURE);
 }
 program_name = argv[0];
+//zmiana
 
 /* Permisions for the new file */
 mode_t mode = S_IRUSR | S_IWUSR | S_IRGRP | S_IWGRP | S_IROTH;

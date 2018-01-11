@@ -75,6 +75,7 @@ bool isPalindrome( char array[] )
             startingPos = index;
     }
     array1[count1] = '\0'; 
+	//zmiana
     //Step 3
     index = 0;
     while ( index <= (count1 - 1)/2 and isPalindrome )

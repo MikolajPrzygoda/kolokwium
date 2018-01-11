@@ -68,6 +68,8 @@ template< class T > T Stack<T>::pop()
     return val;
  
 }
+
+//zmiana
  
 int main()
 {
